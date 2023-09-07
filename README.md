@@ -1,1 +1,1 @@
-# this is the final project for BamboGeeks machine learning course #
+# this is the final project for bamboGeeks machine learning course #
